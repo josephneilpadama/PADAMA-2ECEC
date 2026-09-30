@@ -1,9 +1,9 @@
 # Experiment 4: Data Wrangling and Data Visualization
 
 
-> **Name:** Padama, Joseph Neil C.  
-> **Section:** 2ECE-C  
-> **Date Submitted:** September 17, 2026
+**Name:** Padama, Joseph Neil C.  
+**Section:** 2ECE-C  
+**Date Submitted:** September 17, 2026
 
 ---
 
